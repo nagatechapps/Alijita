@@ -1,0 +1,114 @@
+[
+  {
+    "id": "song_01",
+    "title": "Bazawara",
+    "artist": "Ali Jita",
+    "durationMs": 215000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_Jita_Bazawara.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_02",
+    "title": "Darling Remix (feat. Og Abbah)",
+    "artist": "Ali Jita",
+    "durationMs": 198000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_Jita_Darling_Remix_feat_Og_Abbah.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_03",
+    "title": "Ina Ma",
+    "artist": "Ali Jita",
+    "durationMs": 240000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_Jita_Ina_Ma.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_04",
+    "title": "Kurman Zance",
+    "artist": "Ali Jita",
+    "durationMs": 182000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_Jita_Kurman_Zance.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_05",
+    "title": "Sallama (feat. Ado Gwanja)",
+    "artist": "Ali Jita",
+    "durationMs": 210000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_Jita_SALLAMA_Ft_Ado_Gwanja.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_06",
+    "title": "Sadaki",
+    "artist": "Ali Jita",
+    "durationMs": 205000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_Jita_Sadaki.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_07",
+    "title": "Yau Da Labari",
+    "artist": "Ali Jita",
+    "durationMs": 225000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_Jita_Yau_Da_Labari.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_08",
+    "title": "Aure Yana Da Dadi",
+    "artist": "Ali Jita",
+    "durationMs": 192000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_jita_Aure_yana_da_dadi.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_09",
+    "title": "Love",
+    "artist": "Ali Jita",
+    "durationMs": 218000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_jita_Love_official.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_10",
+    "title": "Mai Waka",
+    "artist": "Ali Jita",
+    "durationMs": 202000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_jita_Mai_waka.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_11",
+    "title": "Shalelen Miji Amarya",
+    "artist": "Ali Jita",
+    "durationMs": 230000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_jita_Shalelen_miji_Amarya.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_12",
+    "title": "Uwar Gida",
+    "artist": "Ali Jita",
+    "durationMs": 188000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Ali_jita_Uwar_gida.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_13",
+    "title": "Asha Ruwa",
+    "artist": "Ali Jita",
+    "durationMs": 210000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/Asha_Ruwa_by_Ali_Jita.mp3",
+    "coverUrl": null
+  },
+  {
+    "id": "song_14",
+    "title": "Bayanin Jita",
+    "artist": "Ali Jita",
+    "durationMs": 210000,
+    "remoteUrl": "https://pub-88a630e0cfef48af900d2b050908e550.r2.dev/BAYANIN_JITA.mp3",
+    "coverUrl": null
+  }
+]
